@@ -1,4 +1,4 @@
-import paypal from '../assets/image/paypal.jpg'
+import paypal from '../assets/image/Paypal.jpg'
 import hero2 from '../assets/image/hero2.jpg'
 import individuals from '../assets/image/individuals.jpg'
 import business from '../assets/image/business.jpg'
